@@ -13,7 +13,8 @@
             android:layout_height="wrap_content"
             android:text="@string/textoBoton"
             android:layout_centerHorizontal="true"
-            android:onClick="saludando"/>
+
+            />
 
         <TextView
             android:id="@+id/textViewSaludo"
@@ -22,9 +23,9 @@
             android:layout_below="@+id/btnSaludar"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="-205dp"
-            android:text="@string/testoSaludo"
-            android:textColor="@color/design_default_color_error"
-            android:visibility="invisible" />
+
+
+            />
 
 
 </RelativeLayout>
