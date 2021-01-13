@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HolaMundoConEvento</string>
+    <string name="textoBoton">Saludo</string>
+    <string name="testoSaludo">Hola amigos, bienvenidos al curso</string>
 </resources>
